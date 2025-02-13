@@ -1,0 +1,9 @@
+git clone https://github.com/Jansen-Killinger-Cara/bomdiaangular
+dir
+dir /a
+cld
+cls
+dir
+cd bomdiaangular
+dir /a
+doskey /h >Comando.txt
