@@ -7,3 +7,15 @@ dir
 cd bomdiaangular
 dir /a
 doskey /h >Comando.txt
+dir /a
+git status
+git add .
+git status
+git commit -m "Meu arquivo de comandos
+git status
+git push
+doskey /h >Comando.txt
+git status
+code .
+git status
+doskey /h >Comando.txt
